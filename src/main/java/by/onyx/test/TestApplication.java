@@ -8,6 +8,8 @@ public class TestApplication {
         int a = 1;
         String b = "a";
 
+        String test_1_branch = "initial";
+
     }
 
 }
