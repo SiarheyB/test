@@ -10,6 +10,8 @@ public class TestApplication {
 
         String test_1_branch = "initial";
 
+        String test_2_branch = "initial";
+
     }
 
 }
